@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the main character of the anime &quot;One-Punch Man&quot;?",
+            "correct_answer": "Saitama",
+            "incorrect_answers": [
+                "Genos",
+                "Sonic",
+                "King"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which anime heavily features music from the genre &quot;Eurobeat&quot;?",
+            "correct_answer": "Initial D",
+            "incorrect_answers": [
+                "Wangan Midnight",
+                "Kino no Tabi",
+                "Cowboy Bebop"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the anime series &quot;Full Metal Alchemist&quot;, what do Alchemists consider the greatest taboo?",
+            "correct_answer": "Human Transmutation ",
+            "incorrect_answers": [
+                "Transmuting Lead Into Gold",
+                "Using Alchemy For Crime ",
+                "Preforming Without A Permit"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was the first episode of Soul Eater released?",
+            "correct_answer": "2008",
+            "incorrect_answers": [
+                "2003",
+                "2005",
+                "2011"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the stuffed lion in Bleach?",
+            "correct_answer": "Kon",
+            "incorrect_answers": [
+                "Jo",
+                "Urdiu",
+                "Chad"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Shakugan no Shana&quot; what was the Shana usually referred as?",
+            "correct_answer": "Flame-Haired Burning-Eyed Hunter",
+            "incorrect_answers": [
+                "Flame Haze",
+                "Flame-Haired Burning-Eyed Haze",
+                "Shana"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the true moon princess in Sailor Moon?",
+            "correct_answer": "Sailor Moon",
+            "incorrect_answers": [
+                "Sailor Venus",
+                "Sailor Mars",
+                "Sailor Jupiter"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Highschool of the Dead&quot;, where did Komuro and Saeko establish to meet after the bus explosion?",
+            "correct_answer": "Eastern Police Station",
+            "incorrect_answers": [
+                "The Center Mall",
+                "Komuro&#039;s House",
+                "On The Main Bridge"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
+            "correct_answer": "Kars",
+            "incorrect_answers": [
+                "Erina Joestar",
+                "Santana",
+                "Wired Beck"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+            "correct_answer": "Giorno Giovanna",
+            "incorrect_answers": [
+                "Guido Mista",
+                "Jonathan Joestar",
+                "Joey JoJo"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In JoJo&#039;s Bizarre Adventure, winch character is able to accelerate time?",
+            "correct_answer": "Enrico Pucci",
+            "incorrect_answers": [
+                "Jotaro Kujo",
+                "Jolyne Cujoh",
+                "Kujo Jotaro"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?",
+            "correct_answer": "Paranoid Android",
+            "incorrect_answers": [
+                "Sadistic Summer",
+                "Bittersweet Symphony",
+                "Mad World"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the anime Noragami who is one of the main protagonists?",
+            "correct_answer": "Yukine",
+            "incorrect_answers": [
+                "Karuha",
+                "Mineha",
+                "Mayu"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year did the anime &quot;Himouto! Umaru-chan&quot; air?",
+            "correct_answer": "2015",
+            "incorrect_answers": [
+                "2014",
+                "2012",
+                "2013"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;Toaru Majutsu no Index&quot; anime, Touma Kamijou is a level 0 esper that has the ability to do what?",
+            "correct_answer": "Dispell any esper or magical powers",
+            "incorrect_answers": [
+                "Teleport",
+                "Make telepathic communications",
+                "Create electricity from his own body"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following manga have the most tankouban volumes?",
+            "correct_answer": "Golgo 13",
+            "incorrect_answers": [
+                "JoJo&#039;s Bizarre Adventure",
+                "Detective Conan",
+                "One Piece"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "On what medium was &quot;Clannad&quot; first created?",
+            "correct_answer": "Visual novel",
+            "incorrect_answers": [
+                "Anime",
+                "Manga",
+                "Light novel"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the ADV (English) Dub of the anime &quot;Ghost Stories&quot;, which character is portrayed as a Pentacostal Christian?",
+            "correct_answer": "Momoko Koigakubo",
+            "incorrect_answers": [
+                "Hajime Aoyama",
+                "Satsuki Miyanoshita",
+                "Mio Itai"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the 2012 animated film &quot;Wolf Children&quot;, what are the names of the wolf children?",
+            "correct_answer": "Ame &amp; Yuki",
+            "incorrect_answers": [
+                "Hana &amp; Yuki",
+                "Ame &amp; Hana",
+                "Chuck &amp; Anna"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The characters of &quot;Log Horizon&quot; are trapped in what game?",
+            "correct_answer": "Elder Tale",
+            "incorrect_answers": [
+                "Sword Art Online",
+                "Tower Unite",
+                "Yggdrasil"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?",
+            "correct_answer": "Ainz Ooal Gown",
+            "incorrect_answers": [
+                "Master",
+                "Yggdrasil",
+                "Kugane Maruyama"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which anime did Seiji Kishi NOT direct?",
+            "correct_answer": "Another",
+            "incorrect_answers": [
+                "Humanity Has Declined",
+                "Assassination Classroom",
+                "Danganronpa: The Animation"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?",
+            "correct_answer": "Fairies",
+            "incorrect_answers": [
+                "Elves",
+                "The Earth",
+                "Animals"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;One Piece&quot;, who is the girl who overcame her enslaved past and became an agent of an army to fight the corrupt government?",
+            "correct_answer": "Koala",
+            "incorrect_answers": [
+                "Boa Hancock",
+                "Nico Robin",
+                "Emporio Ivankov "
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following originated as a manga?",
+            "correct_answer": "Akira",
+            "incorrect_answers": [
+                "Cowboy Bebop",
+                "High School DxD",
+                "Gurren Lagann"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In what year did the manga &quot;Ping Pong&quot; begin serialization?",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "2014",
+                "2010",
+                "2003"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?",
+            "correct_answer": "Vectors",
+            "incorrect_answers": [
+                "Velocity",
+                "Quantums",
+                "Wormholes"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year does Part 7 of &quot;JoJo&#039;s Bizarre Adventure&quot; take place in?",
+            "correct_answer": "1890",
+            "incorrect_answers": [
+                "1888",
+                "1999",
+                "2003"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the creator of the manga series &quot;One Piece&quot;?",
+            "correct_answer": "Eiichiro Oda",
+            "incorrect_answers": [
+                "Yoshihiro Togashi",
+                "Hayao Miyazaki",
+                "Masashi Kishimoto"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Hunter x Hunter&quot;, what are members in Killua&#039;s family known for being?",
+            "correct_answer": "Assassins",
+            "incorrect_answers": [
+                "Bandits",
+                "Hunters",
+                "Ninjas"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?",
+            "correct_answer": "Casey Mongillo",
+            "incorrect_answers": [
+                "Ben Diskin",
+                "Chris Niosi",
+                "David Naughton"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Highschool DxD&quot;, what is the name of the item some humans are born with?",
+            "correct_answer": "Sacred Gear",
+            "incorrect_answers": [
+                "Imperial Arm",
+                "Hallowed Relic",
+                "Blessed Artifact"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Haikyuu!!, who is not a member of Karasuno VBC?",
+            "correct_answer": "Shigeru Yahaba",
+            "incorrect_answers": [
+                "Tadashi Yamaguchi",
+                "Hisashi Kinoshita",
+                "Kazuhito Narita"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What animation studio produced &quot;Gurren Lagann&quot;?",
+            "correct_answer": "Gainax",
+            "incorrect_answers": [
+                "Kyoto Animation",
+                "Pierrot",
+                "A-1 Pictures"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In which manga did the &quot;404 Girl&quot; from 4chan originate from?",
+            "correct_answer": "Yotsuba&amp;!",
+            "incorrect_answers": [
+                "Azumanga Daioh",
+                "Lucky Star",
+                "Clover"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name of the school in the anime and manga &quot;Gosick&quot;?",
+            "correct_answer": "St. Marguerite",
+            "incorrect_answers": [
+                "St. Augustine",
+                "St. Mary",
+                "St. Bernadette"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which animation studio animated &quot;Psycho Pass&quot;?",
+            "correct_answer": "Production I.G",
+            "incorrect_answers": [
+                "Kyoto Animation",
+                "Shaft",
+                "Trigger"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which studio animated Afro Samurai?",
+            "correct_answer": "Gonzo",
+            "incorrect_answers": [
+                "Kyoto Animation",
+                "xebec",
+                "Production I.G"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What studio animated Fullmetal Alchemist?",
+            "correct_answer": "Bones",
+            "incorrect_answers": [
+                "Trigger",
+                "Pierrot",
+                "xebec"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What studio animated Ouran High School Host Club?",
+            "correct_answer": "Bones",
+            "incorrect_answers": [
+                "Production I.G",
+                "Kyoto Animation",
+                "xebec"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of Funny Valentine&#039;s stand in Jojo&#039;s Bizarre Adventure Part 7, Steel Ball Run?",
+            "correct_answer": "Dirty Deeds Done Dirt Cheap",
+            "incorrect_answers": [
+                "Filthy Acts Done For A Reasonable Price",
+                "Civil War",
+                "God Bless The USA"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;JoJo&#039;s Bizzare Adventure: Stardust Crusaders&quot;, what is the last name of the protagonist Jotaro?",
+            "correct_answer": "Kujo",
+            "incorrect_answers": [
+                "Cujoh",
+                "Joestar",
+                "Higashikata"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is not a world in the anime &quot;Buddyfight&quot;?",
+            "correct_answer": "Ancient Dragon World",
+            "incorrect_answers": [
+                "Dragon World",
+                "Star Dragon World",
+                "Darkness Dragon World"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Who was the Author of the manga Monster Hunter Orage?",
+            "correct_answer": "Hiro Mashima",
+            "incorrect_answers": [
+                "Shin Yamamoto",
+                "Keiichi Hikami",
+                "Hirohiko Araki"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+            "correct_answer": "Red, black and yellow",
+            "incorrect_answers": [
+                "Red, yellow and green",
+                "Red, black and green",
+                "Red, purple and blue"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following films was NOT directed by Hayao Miyazaki?",
+            "correct_answer": "Wolf Children",
+            "incorrect_answers": [
+                "Princess Mononoke",
+                "Spirited Away",
+                "Kiki&#039;s Delivery Service"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Who was the Director of the 1988 Anime film &quot;Grave of the Fireflies&quot;?",
+            "correct_answer": "Isao Takahata",
+            "incorrect_answers": [
+                "Hayao Miyazaki",
+                "Satoshi Kon",
+                "Sunao Katabuchi"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which JoJo&#039;s Bizarre Adventure character possesses the Stand named Silver Chariot?",
+            "correct_answer": "Jean Pierre Polnareff",
+            "incorrect_answers": [
+                "Noriaki Kakyoin",
+                "Hol Horse",
+                "Hermes Costello"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In JoJo&#039;s Bizarre Adventure, who says &quot;Yare yare daze&quot;?",
+            "correct_answer": "Jotaro Kujo",
+            "incorrect_answers": [
+                "Joseph Joestar",
+                "Jolyne Cujoh",
+                "Koichi Hirose"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the anime &quot;My Hero Academia&quot;, which character is shown with the ability to manipulate gravity?",
+            "correct_answer": "Uraraka",
+            "incorrect_answers": [
+                "Bakugo",
+                "Deku",
+                "Asui "
+            ]
+        }
+    ]
+}
